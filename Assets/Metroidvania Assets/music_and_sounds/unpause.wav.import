@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://d4fomi0w3dw55"
+path="res://.godot/imported/unpause.wav-ece87943d52b1a10d72c5614e418a756.sample"
+
+[deps]
+
+source_file="res://Assets/Metroidvania Assets/music_and_sounds/unpause.wav"
+dest_files=["res://.godot/imported/unpause.wav-ece87943d52b1a10d72c5614e418a756.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

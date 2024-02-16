@@ -1,0 +1,65 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1708092365
+icon.svg::CompressedTexture2D::1662805678340162071::1708092342::1708092366::1::::<><>::
+README.md::TextFile::-1::1708092342::0::1::::<><>::
+world.tscn::PackedScene::6459251406582909390::1708092342::0::1::::<><>::
+::res://Assets/::1708092208
+::res://Assets/Metroidvania Assets/::1708092199
+::res://Assets/Metroidvania Assets/effects/::1708092342
+double_jump_effect.png::CompressedTexture2D::8990374344724934266::1708092342::1708092366::1::::<><>::
+dust_effect.png::CompressedTexture2D::4593376278857955814::1708092342::1708092366::1::::<><>::
+explosion_effect.png::CompressedTexture2D::5473506577847103881::1708092342::1708092366::1::::<><>::
+jump_effect.png::CompressedTexture2D::426415369450723207::1708092342::1708092366::1::::<><>::
+particle_effect.png::CompressedTexture2D::1439401577671879385::1708092342::1708092366::1::::<><>::
+wall_dust_effect.png::CompressedTexture2D::2837172103421028126::1708092342::1708092366::1::::<><>::
+::res://Assets/Metroidvania Assets/enemies/::1708092342
+boss_enemy.png::CompressedTexture2D::1762148029241606516::1708092342::1708092366::1::::<><>::
+boss_enemy_body.png::CompressedTexture2D::1404825499631639746::1708092342::1708092366::1::::<><>::
+boss_enemy_head.png::CompressedTexture2D::4091486432791342270::1708092342::1708092366::1::::<><>::
+boss_enemy_leg.png::CompressedTexture2D::4964795356162542122::1708092342::1708092366::1::::<><>::
+boss_enemy_wing.png::CompressedTexture2D::8495000631790312968::1708092342::1708092366::1::::<><>::
+boss_stinger.png::CompressedTexture2D::8750742639351614824::1708092342::1708092366::1::::<><>::
+crawling_enemy.png::CompressedTexture2D::2430055473167865583::1708092342::1708092366::1::::<><>::
+enemy_bullet.png::CompressedTexture2D::1800926875728430350::1708092342::1708092366::1::::<><>::
+flying_enemy.png::CompressedTexture2D::6969557535303484641::1708092342::1708092366::1::::<><>::
+plant_enemy.png::CompressedTexture2D::1902253483868285770::1708092342::1708092366::1::::<><>::
+spikes.png::CompressedTexture2D::5901595097716560850::1708092342::1708092366::1::::<><>::
+walking_enemy.png::CompressedTexture2D::7127760244740414058::1708092342::1708092366::1::::<><>::
+::res://Assets/Metroidvania Assets/music_and_sounds/::1708092342
+bullet.wav::AudioStreamWAV::6367733031805051284::1708092342::1708092366::1::::<><>::
+click.wav::AudioStreamWAV::6061683723632712478::1708092342::1708092366::1::::<><>::
+enemy_die.wav::AudioStreamWAV::3054961973291191430::1708092342::1708092366::1::::<><>::
+explosion.wav::AudioStreamWAV::4731453542487782255::1708092342::1708092366::1::::<><>::
+hurt.wav::AudioStreamWAV::4276916237079556151::1708092342::1708092366::1::::<><>::
+jump.wav::AudioStreamWAV::2403707992391261684::1708092342::1708092366::1::::<><>::
+music.ogg::AudioStreamOggVorbis::2956026324110802840::1708092342::1708092366::1::::<><>::
+pause.wav::AudioStreamWAV::5164952244511931375::1708092342::1708092366::1::::<><>::
+powerup.wav::AudioStreamWAV::278699111400647546::1708092342::1708092366::1::::<><>::
+step.wav::AudioStreamWAV::7120598359050193369::1708092342::1708092366::1::::<><>::
+unpause.wav::AudioStreamWAV::9205932332622183114::1708092342::1708092366::1::::<><>::
+::res://Assets/Metroidvania Assets/player/::1708092342
+player.png::CompressedTexture2D::1571949970012336451::1708092342::1708092366::1::::<><>::
+player_blaster.png::CompressedTexture2D::7343941965749207274::1708092342::1708092366::1::::<><>::
+player_bullet.png::CompressedTexture2D::8552240749421362625::1708092342::1708092366::1::::<><>::
+player_missile.png::CompressedTexture2D::3253436690277038381::1708092342::1708092366::1::::<><>::
+player_ship.png::CompressedTexture2D::3696167349899658353::1708092342::1708092366::1::::<><>::
+::res://Assets/Metroidvania Assets/ui/::1708092342
+button_hover_stylebox.png::CompressedTexture2D::2547183694531657115::1708092342::1708092366::1::::<><>::
+button_stylebox.png::CompressedTexture2D::7619315021714462389::1708092342::1708092366::1::::<><>::
+health_meter.png::CompressedTexture2D::2607945808897522791::1708092342::1708092366::1::::<><>::
+health_meter_empty.png::CompressedTexture2D::5098952774582551328::1708092342::1708092366::1::::<><>::
+pixel_font.ttf::FontFile::4051731860514563768::1708092342::1708092366::1::::<><>::
+player_missile_icon.png::CompressedTexture2D::4129718462742648014::1708092342::1708092366::1::::<><>::
+value_bar.png::CompressedTexture2D::2682918565157789189::1708092342::1708092366::1::::<><>::
+value_bar_border.png::CompressedTexture2D::9222674007395436844::1708092342::1708092366::1::::<><>::
+white_square.png::CompressedTexture2D::8698369014657228341::1708092342::1708092366::1::::<><>::
+::res://Assets/Metroidvania Assets/world/::1708092342
+brick.png::CompressedTexture2D::897561464495439367::1708092342::1708092366::1::::<><>::
+door.png::CompressedTexture2D::5118827838510754862::1708092342::1708092366::1::::<><>::
+ladder.png::CompressedTexture2D::154310314089057868::1708092342::1708092366::1::::<><>::
+moving_platform.png::CompressedTexture2D::5405258814493011621::1708092342::1708092366::1::::<><>::
+save_station.png::CompressedTexture2D::2884888005091494678::1708092342::1708092366::1::::<><>::
+slopes.png::CompressedTexture2D::3614251001330701480::1708092342::1708092366::1::::<><>::
+slopes_flipped.png::CompressedTexture2D::1274751688749877819::1708092342::1708092366::1::::<><>::
+solid_black.png::CompressedTexture2D::591792070071691325::1708092342::1708092366::1::::<><>::
+tileset.png::CompressedTexture2D::1111275503536379642::1708092342::1708092366::1::::<><>::

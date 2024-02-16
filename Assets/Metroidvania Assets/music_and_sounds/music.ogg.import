@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bid6k64g5oqea"
+path="res://.godot/imported/music.ogg-cd3543cfc3f0b67248fde38bfdf9fd58.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/Metroidvania Assets/music_and_sounds/music.ogg"
+dest_files=["res://.godot/imported/music.ogg-cd3543cfc3f0b67248fde38bfdf9fd58.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
